@@ -22,7 +22,7 @@ Installation command-line:
 
 <dl>
   <dt>Histogram</dt>
-  <dd><a href="https://wmpjrufg.github.io/META_TOOLBOX/histogram.html" target="_blank">Histogram</a></dd>
+  <dd><a href="https://wmpjrufg.github.io/EASYPLOT_TOOLBOX/histogram.html" target="_blank">Histogram</a></dd>
 </dl>
 
 
