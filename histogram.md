@@ -5,15 +5,11 @@
 
 <h1>Histogram</h1>
 
-<p align = "justify">
-This function shows a boxplot and histogram in a single chart.
-</p>
+<p align = "justify">This function shows a boxplot and histogram in a single chart.</p>
 
 <h2>Input variables</h2>
 
-<p align = "justify">
-This function shows a boxplot and histogram in a single chart.
-</p>
+<p align = "justify">This function shows a boxplot and histogram in a single chart.</p>
 
 <table style = "width:100%">
     <tr>
@@ -110,9 +106,7 @@ This function shows a boxplot and histogram in a single chart.
 
 <h2>Outnput variables</h2>
 
-<p align = "justify">
-The function displays the plot on the screen and saves it to the local folder of the ipynb file.
-</p>
+<p align = "justify">The function displays the plot on the screen and saves it to the local folder of the ipynb file.</p>
 
 <h2>Example 1</h2>
 
@@ -152,8 +146,7 @@ DATA = {
 HISTOGRAM_CHART(DATA, PLOT_SETUP)
 ```
 <center><img src="./imgs/col1_Histogram.svg" width="70%"></center>
-<p align = "center">
-<b>Figure 1.</b>\[x_{1}\] variable histogram and boxplot.</p>
+<p align = "center"><b>Figure 1.</b> \(x_{1}\) variable histogram and boxplot.</p>
 
 <h2>Example 2</h2>
 
@@ -199,12 +192,12 @@ for COLUMN in DF:
 
 <center><img src="./imgs/col11_Histogram.svg" width="70%"></center>
 <p align = "center">
-<b>Figure 2.</b>\[x_{1}\] variable histogram and boxplot.</p>
+<b>Figure 2.</b> \(x_{1}\) variable histogram and boxplot.</p>
 
 <center><img src="./imgs/col2_Histogram.svg" width="70%"></center>
 <p align = "center">
-<b>Figure 3.</b>\[x_{2}\] variable histogram and boxplot.</p>
+<b>Figure 3.</b> \(x_{2}\) variable histogram and boxplot.</p>
 
 <center><img src="./imgs/col3_Histogram.svg" width="70%"></center>
 <p align = "center">
-<b>Figure 4.</b>\[x_{3}\] variable histogram and boxplot.</p>
+<b>Figure 4.</b> \(x_{3}\) variable histogram and boxplot.</p>

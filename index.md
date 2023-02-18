@@ -11,11 +11,11 @@ See others versions. <a href="https://wmpjrufg.github.io/META_TOOLBOX/LOG.html" 
 <h2>Install</h2>
 
 <p align = "justify">
-Installation command-line:
+Installation command-line: 
 </p>
 
 ```python
-
+pip install EASYPLOT-TOOLBOX
 ```
 
 <h2>Index</h2>
